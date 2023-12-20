@@ -1,2 +1,2 @@
 # graphql
-Showcase Graphql
+Graphql with Spring boot
